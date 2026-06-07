@@ -7,7 +7,7 @@ from PIL import Image
 # Page config
 st.set_page_config(page_title="City of Victoria Study Tool", layout="centered")
 
-IMAGE_DIR = "extracted_images"
+IMAGE_DIR = ""
 DATA_FILE = "buildings_data.json"
 
 # Load saved user data
